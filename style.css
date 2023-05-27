@@ -1,0 +1,17 @@
+.tabBtn {
+    font-size: 15px;
+    background-color: #92c9d4;
+    font-family: "Comic Sans MS", "Comic Sans", "cursive";
+    margin: auto;
+    width: 7%;
+    border: 5px solid #000000;
+    padding: 10px;
+}
+.log {
+    font-size: 7px;
+    background-color: #92c9d4;
+    font-family: "Comic Sans MS", "Comic Sans", "cursive";
+    border: 7px solid #000000;
+    padding: 100px;  
+    
+}
